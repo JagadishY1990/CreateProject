@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CreateProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jagadish
+Implementation-Vendor-Id: com.deere.createproject
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CreateProject
+Created-By: Maven Integration for Eclipse
+
